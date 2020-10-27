@@ -9,9 +9,10 @@
     <img alt="Landing-Page" title="Landing" src="assets/registerUser.gif">
 </p>
 <hr>
-## 🛠 Tecnologias
+<h2> 🛠 Tecnologias</h2>
 C# (Back-End);
-<hr>
+SharpDevelop (IDE);
+<br>
 <h2> :book: Licença </h2>
 <p>Lançado em 2020 :book:</p></br>
 <p>Feito por Gabriel Brune :rocket:. Este projeto está sobre a licença do MIT</p></br>
