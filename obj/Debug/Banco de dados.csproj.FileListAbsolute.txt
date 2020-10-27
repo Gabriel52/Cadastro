@@ -1,0 +1,29 @@
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe.config
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\bin\Debug\Banco de dados.pdb
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csprojAssemblyReference.cache
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco_de_dados.Form1.resources
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco_de_dados.Properties.Resources.resources
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.GenerateResource.cache
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.CoreCompileInputs.cache
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.exe
+C:\Users\aluno.etec\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.pdb
+I:\Etec\C#\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe.config
+I:\Etec\C#\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe
+I:\Etec\C#\Banco de dados\Banco de dados\bin\Debug\Banco de dados.pdb
+I:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csprojAssemblyReference.cache
+I:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco_de_dados.Form1.resources
+I:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco_de_dados.Properties.Resources.resources
+I:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.GenerateResource.cache
+I:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.CoreCompileInputs.cache
+I:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco de dados.exe
+I:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco de dados.pdb
+E:\Etec\C#\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe.config
+E:\Etec\C#\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe
+E:\Etec\C#\Banco de dados\Banco de dados\bin\Debug\Banco de dados.pdb
+E:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csprojAssemblyReference.cache
+E:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco_de_dados.Form1.resources
+E:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco_de_dados.Properties.Resources.resources
+E:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.GenerateResource.cache
+E:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco de dados.exe
+E:\Etec\C#\Banco de dados\Banco de dados\obj\Debug\Banco de dados.pdb
